@@ -1,7 +1,7 @@
-.panda-bg-info{
+.foinni-bg-info{
     background-color: #fceae8;
 }
-.panda-btn-buy-now{
+.foinni-btn-buy-now{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
     border: none;
@@ -11,16 +11,24 @@
 .catagories img{
     width: 100px;
 }
-.panda-bg-orange{
+.foinni-bg-orange{
     background-color: orange;
 }
-.panda-bg-orchid{
+.foinni-bg-orchid{
     background-color: orchid;
 }
-.panda-bg-blue{
+.foinni-bg-blue{
     background-color: blue;
 }
 .subscribe p{
     color: gray;
     font-weight: 500;
+}
+.social-icons a .fab{
+    margin: 4px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
 }
